@@ -2,8 +2,8 @@
 
 Package.describe({
 	summary: "GitHub flavored markdown parser for Meteor based on marked.js",
-	version: "1.0.6",
-	git: "https://github.com/perak/markdown.git"
+	version: "1.0.7",
+	git: "https://github.com/wekan/markdown.git"
 });
 
 // Before Meteor 0.9?

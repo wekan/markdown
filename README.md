@@ -1,7 +1,7 @@
 markdown
 ========
 
-GitHub flavored markdown parser for Meteor based on marked.js v0.3.3
+GitHub flavored markdown parser for Meteor based on marked.js newest version, updated by xet7.
 
 GFM tables and linebreaks are enabled by default.
 
@@ -32,6 +32,8 @@ Thanks to:
 - Bozhao Yu for original <a href="https://github.com/yubozhao/meteor-markdown" target="_blank">meteor-markdown</a> package (I just made this package compatible with Meteor 0.9+)
 
 - Bernhard Millauer - for contributions to this package
+
+- <a href="https://github.com/xet7">xet7</a> for updating to newest GFM package.
 
 License
 -------
