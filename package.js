@@ -1,6 +1,7 @@
 // Source: https://github.com/chjj/marked
 
 Package.describe({
+	name: 'wekan-markdown',
 	summary: "GitHub flavored markdown parser for Meteor based on marked.js",
 	version: "1.0.7",
 	git: "https://github.com/wekan/markdown.git"
